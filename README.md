@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+<img align="right" alt="Coding" width="400" margin-top="20px" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 <h1 align="center">Hi 👋, I'm Ronel vega</h1>
 <h3 align="center">An aspiring Web developer from Philippines</h3>
 
