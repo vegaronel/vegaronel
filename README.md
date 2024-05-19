@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://vegaronel.github.io/portfolio-ronel/)
 <h1 align="center">Hi 👋, I'm Ronel vega</h1>
 <h3 align="center">An aspiring Web developer from Philippines</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vegaronel&label=Profile%20views&color=0e75b6&style=flat" alt="vegaronel" /> </p>
 
