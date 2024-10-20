@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ronel</h1>
 <h3 align="center">An aspiring Web developer from Philippines.</h3>
 
-- 🔭 I’m currently working on [Food Waste Management using Node + Express, EJS](https://github.com/vegaronel/food-waste-management)
+- 🔭 I’m currently working on [Project Seed - Permaculture Web App](https://permaculture-production.up.railway.app/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
