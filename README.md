@@ -12,6 +12,7 @@
 - 📫 How to reach me **ronelvega31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://buymeacoffee.com/vegaronel" />
 <p align="left">
 <a href="https://fb.com/https://web.facebook.com/vega.ronel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/vega.ronel" height="30" width="40" /></a>
 </p>
