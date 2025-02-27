@@ -1,15 +1,15 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70de7aff-d16a-4837-8719-18b68b53ee84/dg7zwp0-1fe380cb-3fb9-4877-849c-d9179bf481e2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwZGU3YWZmLWQxNmEtNDgzNy04NzE5LTE4YjY4YjUzZWU4NFwvZGc3endwMC0xZmUzODBjYi0zZmI5LTQ4NzctODQ5Yy1kOTE3OWJmNDgxZTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gGxZwyRJ0N5pTSvVWce4sYDJ4op1updZhv_8qeBRXPQ" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm Ronel</h1>
-<h3 align="center">A Full Stack Developer from Philippines</h3>
+<h3 align="center">A Full Stack Developer from the Philippines</h3>
 
-- 🔭 I’m currently working on [Project Seed - Permaculture Web App](https://permaculture-production.up.railway.app/)
+- 🔭 I’m currently working on [Theraspace - Appointment System](https://theraspace-eight.vercel.app/login)
 
 - 🌱 I’m currently learning React
 
-- 👨‍💻 All of my projects are available at [https://vegaronel.github.io/portfolio-ronel/](https://vegaronel.github.io/portfolio-ronel/)
+- 👨‍💻 All of my projects are available at [https://vegaronel.vercel.app/](https://vegaronel.vercel.app/)
 
-- 📫 How to reach me **ronelvega31@gmail.com**
+- 📫 How to reach me **ronelgvega@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p>Buy me a coffee <a href="https://buymeacoffee.com/vegaronel">https://buymeacoffee.com/vegaronel</a></p>
